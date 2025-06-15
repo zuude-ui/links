@@ -38,6 +38,14 @@ export default function Home() {
           className="underline font-semibold"
         >
           Ali Samadi
+        </a>{" "}
+        -{" "}
+        <a
+          href="https://github.com/zuudeui"
+          target="_blank"
+          className="underline font-semibold"
+        >
+          GitHub Organization
         </a>
       </p>
     </div>
