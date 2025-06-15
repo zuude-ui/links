@@ -19,8 +19,8 @@ export default function Home() {
       <Wrapper title="UI Website">
         <DisplayColumn>
           <Card
-            title="Zuude UI"
-            href="https://www.zuudeui.com/"
+            title="Pro Zuude UI"
+            href="https://pro.zuudeui.com/"
             description="A collection of UI components for your next project."
             colors={[
               [135, 43, 254], // #872bfe
