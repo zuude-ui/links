@@ -8,10 +8,10 @@ export default function Home() {
 
       <Wrapper title="Packages">
         <DisplayColumn>
-          <Card title="@zuude-ui/cropper" href="https://cropper.zuudeui.com" />
+          <Card title="@zuude-ui/cropper" href="https://cropper.zuude-ui.com" />
           <Card
             title="@zuude-ui/ios-mockups"
-            href="https://ios-mockups.zuudeui.com"
+            href="https://ios-mockups.zuude-ui.com"
           />
         </DisplayColumn>
       </Wrapper>
@@ -20,7 +20,7 @@ export default function Home() {
         <DisplayColumn>
           <Card
             title="Pro Zuude UI"
-            href="https://pro.zuudeui.com/"
+            href="https://pro.zuude-ui.com/"
             description="A collection of UI components for your next project."
             colors={[
               [135, 43, 254], // #872bfe
@@ -41,7 +41,7 @@ export default function Home() {
         </a>{" "}
         -{" "}
         <a
-          href="https://github.com/zuudeui"
+          href="https://github.com/zuude-ui"
           target="_blank"
           className="underline font-semibold"
         >
